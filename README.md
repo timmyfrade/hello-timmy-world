@@ -1,7 +1,12 @@
-# hello-timmy-world
+# REACT CHALLENGE
 
-Hello fellow coders!
+My react challenge is inside the folder "react-challenge", where I created a search engine to look for gifs, from GIPHY.com.
+The edited code is:
 
-I'm a noob coder with crazy code in here! But one day i will be like Grace Hopper and be less noob at coding :P
+1.src/index.js
+2.src/index.css
+3.src/components/search.js
+4.src/components/SelectedList.js
+5.src/components/SelectedListItem.js
 
-experimental crazy code from crazy Timmy!
+A big thank you to James for this oportunity and challenge. I had lot's of fun coding with React.js! :)
