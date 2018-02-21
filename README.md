@@ -1,12 +1,5 @@
-# REACT CHALLENGE
+# Giphy.com Search Engine
 
-My react challenge is inside the folder "react-challenge", where I created a search engine to look for gifs, from GIPHY.com.
-The edited code is:
+This is a Search Engine created with React.js, where the user can search for gifs with Giphy API. I learned to develop this tool through this tutorial right here: https://tighten.co/blog/react-101-building-a-gif-search-engine 
 
-1.src/index.js
-2.src/index.css
-3.src/components/search.js
-4.src/components/SelectedList.js
-5.src/components/SelectedListItem.js
-
-A big thank you to James for this oportunity and challenge. I had lot's of fun coding with React.js! :)
+It's easy to follow and explains all the code properly! :D
