@@ -1,6 +1,5 @@
 import React from 'react'; //react library
-import ReactDOM from 'react-dom'; //react DOM - to manipulate elements
-//import App from './App'; 
+import ReactDOM from 'react-dom'; //react DOM - to manipulate elements 
 import './index.css';
 import SearchBar from './components/Search';
 import GifList from './components/SelectedList';
