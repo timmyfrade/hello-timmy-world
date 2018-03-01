@@ -1,7 +1,5 @@
 import React from 'react'
 
-import './Search.css'
-
 class SearchBar extends React.Component {
     onInputChange(term) {
         this.props.onTermChange(term);
